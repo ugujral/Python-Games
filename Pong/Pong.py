@@ -52,8 +52,6 @@ score_a = 0
 score_b = 0
 
 # movement functions
-
-
 def paddle_a_up():
     paddle_a.sety(paddle_a.ycor() + 20)
 
